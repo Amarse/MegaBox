@@ -811,6 +811,7 @@
 }
 .footer-infor {
   display: flex;
+  padding-bottom: 30px;
 }
 
 .footer-infor img {
@@ -828,6 +829,7 @@
 }
 .footer-sns ul {
   display: flex;
+  padding-bottom: 30px;
 }
 .footer-sns ul a {
   margin-right: 10px;
